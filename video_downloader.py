@@ -1,3 +1,6 @@
+!pip install TikTokApi
+!pip install streamlit_option_menu
+
 import asyncio
 from TikTokApi import TikTokApi
 import requests
