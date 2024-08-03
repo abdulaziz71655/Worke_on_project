@@ -1,5 +1,4 @@
 import asyncio
-from TikTokApi import TikTokApi
 import requests
 import streamlit as st
 from yt_dlp import YoutubeDL
